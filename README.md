@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michał Ptak
 - 👀 I’m interested in programming, gadgets and fast cars :car:
-- 🌱 I’m currently studying Electronics&Telecomunications(PL)
+- 🌱 I’m currently studying ICT at AGH in Cracow
 - :mailbox: My email is mptak@student.agh.edu.pl
 
 <!---
